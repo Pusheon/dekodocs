@@ -1,7 +1,7 @@
 site_name: 'NadekoBot'
-site_url: 'https://nadeko.bot'
-repo_url: 'https://gitlab.com/kwoth/nadekobot'
-site_author: 'Kwoth'
+site_url: 'http://mewdeko.me'
+repo_url: 'https://github.com/YunoGasai67/dekodocs'
+site_author: 'YunoGasai'
 
 theme:
     name: material
